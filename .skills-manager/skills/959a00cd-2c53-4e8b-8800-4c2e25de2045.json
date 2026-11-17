@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "959a00cd-2c53-4e8b-8800-4c2e25de2045",
+  "path": "agentic-engineering-workflow",
+  "path_key": "agentic-engineering-workflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

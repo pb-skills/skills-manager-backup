@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "91226056-3264-4fc7-84f1-a1bb490df547",
+  "path": "source-code-context",
+  "path_key": "source-code-context",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

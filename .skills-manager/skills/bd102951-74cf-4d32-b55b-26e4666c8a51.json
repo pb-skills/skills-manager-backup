@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bd102951-74cf-4d32-b55b-26e4666c8a51",
+  "path": "windows-archiver-vuln-research",
+  "path_key": "windows-archiver-vuln-research",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

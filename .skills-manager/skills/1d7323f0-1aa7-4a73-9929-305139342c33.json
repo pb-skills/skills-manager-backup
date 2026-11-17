@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1d7323f0-1aa7-4a73-9929-305139342c33",
+  "path": "vuln-disclosure",
+  "path_key": "vuln-disclosure",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

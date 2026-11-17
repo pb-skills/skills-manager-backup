@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "27823111-2a1c-477c-b150-67bab16a2bc7",
+  "path": "fetch-music-metadata",
+  "path_key": "fetch-music-metadata",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

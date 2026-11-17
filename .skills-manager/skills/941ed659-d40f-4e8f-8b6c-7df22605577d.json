@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "941ed659-d40f-4e8f-8b6c-7df22605577d",
+  "path": "code-structure-cleanup",
+  "path_key": "code-structure-cleanup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

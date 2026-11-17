@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b2defad-ec87-4ab1-bf29-0c199b8bc944",
+  "path": "pinokio",
+  "path_key": "pinokio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

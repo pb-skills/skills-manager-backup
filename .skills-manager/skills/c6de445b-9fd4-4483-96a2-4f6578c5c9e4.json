@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c6de445b-9fd4-4483-96a2-4f6578c5c9e4",
+  "path": "download-songs",
+  "path_key": "download-songs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

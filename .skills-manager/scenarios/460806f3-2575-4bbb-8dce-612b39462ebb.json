@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "460806f3-2575-4bbb-8dce-612b39462ebb",
+  "name": "Sec Analyst",
+  "description": "Performs Security Code Review and and vulnerabilities on Apps and WebApps",
+  "icon": "code-2",
+  "sort_order": 999
+}

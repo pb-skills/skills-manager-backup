@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4db32a9f-41a5-432c-9bca-61665734d5f4",
+  "path": "cve-to-test-framework",
+  "path_key": "cve-to-test-framework",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

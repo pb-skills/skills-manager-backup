@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "89a572c4-825f-4e31-9de1-ab2460fbbf3d",
+  "path": "grep-loop-review-workflow",
+  "path_key": "grep-loop-review-workflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
