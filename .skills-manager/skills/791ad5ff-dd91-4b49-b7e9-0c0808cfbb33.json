@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "791ad5ff-dd91-4b49-b7e9-0c0808cfbb33",
+  "path": "suno-download",
+  "path_key": "suno-download",
+  "enabled": true,
+  "tags": [
+    "download",
+    "music",
+    "suno"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
