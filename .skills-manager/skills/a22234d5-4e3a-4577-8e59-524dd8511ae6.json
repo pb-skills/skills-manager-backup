@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a22234d5-4e3a-4577-8e59-524dd8511ae6",
+  "path": "zenwarrior",
+  "path_key": "zenwarrior",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
