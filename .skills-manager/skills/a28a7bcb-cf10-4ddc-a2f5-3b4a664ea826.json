@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a28a7bcb-cf10-4ddc-a2f5-3b4a664ea826",
+  "path": "grilling",
+  "path_key": "grilling",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

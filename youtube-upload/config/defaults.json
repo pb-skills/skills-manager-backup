@@ -1,0 +1,11 @@
+{
+  "privacy": "private",
+  "categoryId": "10",
+  "madeForKids": false,
+  "containsSyntheticMedia": true,
+  "defaultLanguage": "en",
+  "playlist": null,
+  "tagsFile": "tags.txt",
+  "descriptionTemplate": "description.txt",
+  "credentialsDir": "%USERPROFILE%\\.zenwarrior\\youtube"
+}

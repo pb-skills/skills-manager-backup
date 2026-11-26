@@ -1,0 +1,24 @@
+# Dream Realization Experiment Plan
+
+- Dream ID:
+- Run ID:
+- Approval/status:
+- Originating memory IDs and versions:
+- Owner/date:
+- Problem statement and evidence chronology:
+- Why existing memory or workaround is insufficient:
+- What evidence would disprove continued recurrence:
+- Hypothesis:
+- Test environment (disposable, permissions, dependencies, network restrictions):
+- Baseline method and expected failure:
+- Versioned fixtures / data provenance:
+- Candidate design and files (sandbox only):
+- Test cases (positive, negative, edge, adversarial):
+- Metrics and predeclared acceptance thresholds:
+- Resource and duration budget:
+- Security/privacy review:
+- Stop conditions:
+- Exact approved experimental actions:
+- Out-of-scope actions:
+- Rollback plan:
+- Deployment proposal (NOT yet authorized):

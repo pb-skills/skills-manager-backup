@@ -1,0 +1,32 @@
+{
+ "id": "DREAM-000",
+ "slug": "short-kebab-name",
+ "title": "The discovery in under 8 words",
+ "date": "YYYY-MM-DD",
+ "outcome": "passed",
+ "discovery": "What was learned, in 2-4 plain sentences, with the version/environment it was verified on.",
+ "correct_way": [
+  "First verified step, written as an instruction.",
+  "Second verified step."
+ ],
+ "applies_when": "Situations where this should be recalled.",
+ "nodes": [
+  {"id": "I", "label": "The issue found", "kind": "issue", "status": "verified", "fact": "Exact symptom, ids, numbers."},
+  {"id": "E", "label": "How it was proven", "kind": "action", "status": "verified", "fact": "Probe/test and its result."},
+  {"id": "B", "label": "Old belief", "kind": "fact", "status": "rejected", "fact": "What we used to think."},
+  {"id": "W", "label": "The correct way", "kind": "action", "status": "verified", "way": true, "fact": "What to do."},
+  {"id": "O", "label": "Measured result", "kind": "outcome", "status": "verified", "fact": "Numbers from the report."}
+ ],
+ "edges": [
+  {"src": "E", "dst": "I", "rel": "evidence_for"},
+  {"src": "I", "dst": "B", "rel": "contradicts"},
+  {"src": "W", "dst": "B", "rel": "supersedes"},
+  {"src": "W", "dst": "I", "rel": "fixes"},
+  {"src": "W", "dst": "O", "rel": "causes"}
+ ],
+ "refs": {
+  "report": "C:/ai/memories/dreams/experiments/DREAM-000/run-YYYYMMDD-NN/report.md",
+  "memory": "C:/ai/memories/categories/successes.md",
+  "dream": "C:/ai/memories/dreams/archive.md#DREAM-000"
+ }
+}

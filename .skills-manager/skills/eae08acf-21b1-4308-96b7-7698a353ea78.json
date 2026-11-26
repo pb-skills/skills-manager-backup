@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eae08acf-21b1-4308-96b7-7698a353ea78",
+  "path": "memory-optimizer",
+  "path_key": "memory-optimizer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

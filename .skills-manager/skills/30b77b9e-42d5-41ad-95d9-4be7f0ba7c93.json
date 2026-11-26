@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "30b77b9e-42d5-41ad-95d9-4be7f0ba7c93",
+  "path": "source-command-start-cve-mcp-server",
+  "path_key": "source-command-start-cve-mcp-server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

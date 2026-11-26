@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c89d5ea3-65a3-4fb6-8884-c42a353bcc19",
+  "path": "update-subconscious",
+  "path_key": "update-subconscious",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

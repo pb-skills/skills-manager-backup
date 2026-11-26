@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d0db860-b164-4c3d-8c38-9bed74869e6a",
+  "path": "dream-realization",
+  "path_key": "dream-realization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

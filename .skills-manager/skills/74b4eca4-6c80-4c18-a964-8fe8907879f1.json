@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "74b4eca4-6c80-4c18-a964-8fe8907879f1",
+  "path": "dream-manager",
+  "path_key": "dream-manager",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

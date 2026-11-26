@@ -1,0 +1,13 @@
+{
+  "dropOff": ".\\dropOff",
+  "finalVideos": ".\\finalVideos",
+  "archive": ".\\archive",
+  "defaultFormat": "youtube",
+  "defaultDuration": null,
+  "supportedAudioFormats": [".mp3", ".wav", ".m4a", ".aac", ".ogg", ".flac", ".wma"],
+  "supportedImageFormats": [".png", ".jpg", ".jpeg", ".webp", ".bmp", ".gif"],
+  "videoFormats": {
+    "youtube": { "width": 1920, "height": 1080, "label": "YouTube 1920x1080" },
+    "instagram": { "width": 1080, "height": 1920, "label": "Instagram 1080x1920 (45s short)" }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8d03f781-faa7-4863-b492-948ce7cb929f",
+  "path": "source-command-package-python-onefile",
+  "path_key": "source-command-package-python-onefile",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

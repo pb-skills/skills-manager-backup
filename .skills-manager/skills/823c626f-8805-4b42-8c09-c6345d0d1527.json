@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "823c626f-8805-4b42-8c09-c6345d0d1527",
+  "path": "source-command-package-python",
+  "path_key": "source-command-package-python",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
